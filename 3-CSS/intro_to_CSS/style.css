@@ -1,0 +1,16 @@
+span {
+    background-color:darkturquoise;
+}
+
+li {
+    background-color: lightgreen;
+}
+
+.listClass {
+    background-color: lightcoral;
+}
+
+#listID {
+    background-color: lavender;
+}
+
